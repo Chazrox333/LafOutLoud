@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "type": "rox-theme",
+  "name": "KnobDesignerDefaultTheme",
+  "tokens": {
+    "--bg": "#2b2b2b",
+    "--panel": "#212121",
+    "--panel2": "#3a3a3a",
+    "--border": "#1c1c1c",
+    "--text": "#c8c8c8",
+    "--dim": "#7a7a7a",
+    "--accent": "#d99a2b",
+    "--section-title-color": "#c8941a",
+    "--btn-bg": "#383838",
+    "--btn-border": "#4a4a4a",
+    "--btn-hover": "#444444",
+    "--slider-track": "3px",
+    "--slider-thumb": "11px",
+    "--card-radius": "6px",
+    "--row-gap": "3px",
+    "--ui-font": "11px",
+    "--label-size": "10px",
+    "--ui-family": "'Inter',-apple-system,sans-serif"
+  }
+}
