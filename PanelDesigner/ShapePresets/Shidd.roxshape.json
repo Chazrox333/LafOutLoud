@@ -1,0 +1,367 @@
+{
+  "format": "RoxPanelDesigner.ShapePreset",
+  "version": 1,
+  "savedAt": "2026-07-06T19:39:57.415Z",
+  "name": "Shidd",
+  "sourceType": "custom",
+  "layerSettings": {
+    "type": "custom",
+    "name": "Shidd",
+    "visible": true,
+    "locked": false,
+    "x": 0.11153519932145886,
+    "y": 0.2539011005855484,
+    "w": 0.7901734163115565,
+    "h": 0.6336491002176644,
+    "points": [
+      {
+        "x": 0,
+        "y": 0.24087406389059726,
+        "curve": false
+      },
+      {
+        "x": 0,
+        "y": 0.8684562787163996,
+        "curve": false,
+        "cx": 0.0022381016583524357,
+        "cy": 0.5439057670547142
+      },
+      {
+        "x": 0.2440609410812998,
+        "y": 0.46445497630331756,
+        "curve": false
+      },
+      {
+        "x": 0.42421464203856013,
+        "y": 0.7630331753554501,
+        "curve": false
+      },
+      {
+        "x": 0.5478495348523663,
+        "y": 0.4407582938388626,
+        "curve": false
+      },
+      {
+        "x": 0.7103411082647972,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 0.8657678306592963,
+        "y": 0.43601895734597157,
+        "curve": false
+      },
+      {
+        "x": 0.9823378724551706,
+        "y": 0.943127962085308,
+        "curve": true,
+        "cx": 0.9858702979641366,
+        "cy": 0.928909952606635
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "curve": false,
+        "cx": 1,
+        "cy": 0
+      },
+      {
+        "x": 0.9081569367668869,
+        "y": 0.3127962085308057,
+        "curve": false,
+        "cx": 0.9081569367668869,
+        "cy": 0.3127962085308057
+      },
+      {
+        "x": 0.8375084265875691,
+        "y": 0.1848341232227488,
+        "curve": false,
+        "cx": 0.8375084265875691,
+        "cy": 0.1848341232227488
+      },
+      {
+        "x": 0.6785492786841043,
+        "y": 0.5071090047393365,
+        "curve": false
+      },
+      {
+        "x": 0.5266549817985711,
+        "y": 0.1895734597156398,
+        "curve": false,
+        "cx": 0.5231225562896051,
+        "cy": 0.17535545023696683
+      },
+      {
+        "x": 0.38535796143993545,
+        "y": 0.4834123222748815,
+        "curve": false,
+        "cx": 0.38535796143993545,
+        "cy": 0.4834123222748815
+      },
+      {
+        "x": 0.22993123904543628,
+        "y": 0.2274881516587678,
+        "curve": false
+      },
+      {
+        "x": 0.07803694215990299,
+        "y": 0.5165876777251185,
+        "curve": false,
+        "cx": 0.07803694215990299,
+        "cy": 0.5165876777251185
+      }
+    ],
+    "closed": true,
+    "roundCornersRadius": 36,
+    "flatColour": "#3a3a3e",
+    "flatAlpha": 1,
+    "useGradient": false,
+    "gradStops": 2,
+    "gradDir": "vertical",
+    "gradColour1": "#4a4a50",
+    "gradAlpha1": 1,
+    "gradColour2": "#1e1e24",
+    "gradAlpha2": 1,
+    "gradColour3": "#2a2a30",
+    "gradAlpha3": 1,
+    "gradPos3": 0.5,
+    "outlineOn": false,
+    "outlineColour": "#555560",
+    "outlineAlpha": 1,
+    "outlineWidth": 1,
+    "outlineGrad": false,
+    "outlineGradDir": "vertical",
+    "outlineColour2": "#333338",
+    "outlineAlpha2": 1,
+    "innerShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.32,
+      "radius": 4,
+      "offsetX": 1,
+      "offsetY": 1
+    },
+    "noiseOn": false,
+    "noiseAlpha": 0.15,
+    "hl1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.25,
+      "x": 0.5,
+      "y": 0.2,
+      "w": 0.8,
+      "h": 0.35,
+      "blur": 25
+    },
+    "hl2": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.1,
+      "x": 0.5,
+      "y": 0.85,
+      "w": 0.6,
+      "h": 0.25,
+      "blur": 35
+    },
+    "pathShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.45,
+      "offsetX": 4,
+      "offsetY": 4,
+      "radius": 12,
+      "scale": 1,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.22,
+      "offsetX": 0,
+      "offsetY": -3,
+      "radius": 18,
+      "scale": 1.02,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow2": {
+      "on": false,
+      "colour": "#d99a2b",
+      "alpha": 0.18,
+      "offsetX": 0,
+      "offsetY": 4,
+      "radius": 24,
+      "scale": 1.08,
+      "width": 1,
+      "height": 1
+    }
+  },
+  "geometry": {
+    "points": [
+      {
+        "x": 0,
+        "y": 0.240874,
+        "curve": false
+      },
+      {
+        "x": 0,
+        "y": 0.868456,
+        "curve": false
+      },
+      {
+        "x": 0.244061,
+        "y": 0.464455,
+        "curve": false
+      },
+      {
+        "x": 0.424215,
+        "y": 0.763033,
+        "curve": false
+      },
+      {
+        "x": 0.54785,
+        "y": 0.440758,
+        "curve": false
+      },
+      {
+        "x": 0.710341,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 0.865768,
+        "y": 0.436019,
+        "curve": false
+      },
+      {
+        "x": 0.982338,
+        "y": 0.943128,
+        "curve": true,
+        "cx": 0.98587,
+        "cy": 0.92891
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "curve": false
+      },
+      {
+        "x": 0.908157,
+        "y": 0.312796,
+        "curve": false
+      },
+      {
+        "x": 0.837508,
+        "y": 0.184834,
+        "curve": false
+      },
+      {
+        "x": 0.678549,
+        "y": 0.507109,
+        "curve": false
+      },
+      {
+        "x": 0.526655,
+        "y": 0.189573,
+        "curve": false
+      },
+      {
+        "x": 0.385358,
+        "y": 0.483412,
+        "curve": false
+      },
+      {
+        "x": 0.229931,
+        "y": 0.227488,
+        "curve": false
+      },
+      {
+        "x": 0.078037,
+        "y": 0.516588,
+        "curve": false
+      }
+    ],
+    "closed": true,
+    "roundCornersRadius": 36,
+    "width": 0.7901734163115565,
+    "height": 0.6336491002176644
+  },
+  "style": {
+    "flatColour": "#3a3a3e",
+    "flatAlpha": 1,
+    "useGradient": false,
+    "gradStops": 2,
+    "gradDir": "vertical",
+    "gradColour1": "#4a4a50",
+    "gradAlpha1": 1,
+    "gradColour2": "#1e1e24",
+    "gradAlpha2": 1,
+    "gradColour3": "#2a2a30",
+    "gradAlpha3": 1,
+    "gradPos3": 0.5,
+    "outlineOn": false,
+    "outlineColour": "#555560",
+    "outlineAlpha": 1,
+    "outlineWidth": 1,
+    "outlineGrad": false,
+    "outlineGradDir": "vertical",
+    "outlineColour2": "#333338",
+    "outlineAlpha2": 1,
+    "noiseOn": false,
+    "noiseAlpha": 0.15,
+    "hl1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.25,
+      "x": 0.5,
+      "y": 0.2,
+      "w": 0.8,
+      "h": 0.35,
+      "blur": 25
+    },
+    "hl2": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.1,
+      "x": 0.5,
+      "y": 0.85,
+      "w": 0.6,
+      "h": 0.25,
+      "blur": 35
+    },
+    "pathShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.45,
+      "offsetX": 4,
+      "offsetY": 4,
+      "radius": 12,
+      "scale": 1,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.22,
+      "offsetX": 0,
+      "offsetY": -3,
+      "radius": 18,
+      "scale": 1.02,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow2": {
+      "on": false,
+      "colour": "#d99a2b",
+      "alpha": 0.18,
+      "offsetX": 0,
+      "offsetY": 4,
+      "radius": 24,
+      "scale": 1.08,
+      "width": 1,
+      "height": 1
+    }
+  }
+}
