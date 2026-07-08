@@ -1,0 +1,66 @@
+{
+  "format": "RoxPanelDesigner.ElementPreset",
+  "version": 1,
+  "savedAt": "2026-07-08T11:13:57.880Z",
+  "name": "LabelTextTest",
+  "sourceType": "text",
+  "panel": {
+    "width": 600,
+    "height": 400
+  },
+  "layerSettings": {
+    "type": "text",
+    "name": "LabelTextTest",
+    "visible": true,
+    "x": 0.05,
+    "y": 0.04,
+    "w": 0.51,
+    "h": 0.3525,
+    "text": "Label",
+    "font": "Impact",
+    "fontSize": 100,
+    "colour": "#c8c8c8",
+    "alpha": 1,
+    "align": "left",
+    "textFill": {
+      "useGradient": false,
+      "gradStops": 2,
+      "gradType": "linear",
+      "angle": 90,
+      "colour1": "#ffffff",
+      "alpha1": 1,
+      "colour2": "#c8c8c8",
+      "alpha2": 1,
+      "colour3": "#777777",
+      "alpha3": 1,
+      "mid1": 0.35,
+      "mid2": 0.65
+    },
+    "textShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.45,
+      "offsetX": 2,
+      "offsetY": 2,
+      "radius": 4
+    },
+    "textGlow": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.35,
+      "radius": 8
+    },
+    "textOutline": {
+      "on": false,
+      "useGradient": false,
+      "colour1": "#ffffff",
+      "alpha1": 1,
+      "colour2": "#000000",
+      "alpha2": 1,
+      "flatColour": "#000000",
+      "flatAlpha": 1,
+      "thickness": 1,
+      "angle": 90
+    }
+  }
+}
