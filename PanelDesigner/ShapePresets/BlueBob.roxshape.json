@@ -1,0 +1,257 @@
+{
+  "format": "RoxPanelDesigner.ShapePreset",
+  "version": 1,
+  "savedAt": "2026-07-08T10:40:54.464Z",
+  "name": "BlueBob",
+  "sourceType": "custom",
+  "layerSettings": {
+    "type": "custom",
+    "name": "BlueBob",
+    "visible": true,
+    "locked": false,
+    "x": 0.08333333333333333,
+    "y": 0.3249999999999999,
+    "w": 0.4166666666666667,
+    "h": 0.2750000000000001,
+    "points": [
+      {
+        "x": 0.04000000000000002,
+        "y": 0,
+        "curve": false
+      },
+      {
+        "x": 0,
+        "y": 0.9090909090909091,
+        "curve": false
+      },
+      {
+        "x": 0.8400000000000001,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 1,
+        "y": 0.36363636363636365,
+        "curve": false
+      },
+      {
+        "x": 0.6,
+        "y": 0.18181818181818174,
+        "curve": false
+      },
+      {
+        "x": 0.48,
+        "y": 0.7272727272727271,
+        "curve": false
+      }
+    ],
+    "closed": true,
+    "roundCornersRadius": 23,
+    "flipH": false,
+    "flipV": false,
+    "rotation": 0,
+    "flatColour": "#1919d2",
+    "flatAlpha": 1,
+    "useGradient": false,
+    "gradStops": 2,
+    "gradDir": "vertical",
+    "gradColour1": "#4a4a50",
+    "gradAlpha1": 1,
+    "gradColour2": "#1e1e24",
+    "gradAlpha2": 1,
+    "gradColour3": "#2a2a30",
+    "gradAlpha3": 1,
+    "gradPos3": 0.5,
+    "outlineOn": false,
+    "outlineColour": "#555560",
+    "outlineAlpha": 1,
+    "outlineWidth": 1,
+    "outlineGrad": false,
+    "outlineGradDir": "vertical",
+    "outlineColour2": "#333338",
+    "outlineAlpha2": 1,
+    "innerShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.32,
+      "radius": 4,
+      "offsetX": 1,
+      "offsetY": 1
+    },
+    "noiseOn": false,
+    "noiseAlpha": 0.15,
+    "hl1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.25,
+      "x": 0.5,
+      "y": 0.2,
+      "w": 0.8,
+      "h": 0.35,
+      "blur": 25
+    },
+    "hl2": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.1,
+      "x": 0.5,
+      "y": 0.85,
+      "w": 0.6,
+      "h": 0.25,
+      "blur": 35
+    },
+    "pathShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.45,
+      "offsetX": 4,
+      "offsetY": 4,
+      "radius": 12,
+      "scale": 1,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.22,
+      "offsetX": 0,
+      "offsetY": -3,
+      "radius": 18,
+      "scale": 1.02,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow2": {
+      "on": false,
+      "colour": "#d99a2b",
+      "alpha": 0.18,
+      "offsetX": 0,
+      "offsetY": 4,
+      "radius": 24,
+      "scale": 1.08,
+      "width": 1,
+      "height": 1
+    }
+  },
+  "geometry": {
+    "points": [
+      {
+        "x": 0.04,
+        "y": 0,
+        "curve": false
+      },
+      {
+        "x": 0,
+        "y": 0.909091,
+        "curve": false
+      },
+      {
+        "x": 0.84,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 1,
+        "y": 0.363636,
+        "curve": false
+      },
+      {
+        "x": 0.6,
+        "y": 0.181818,
+        "curve": false
+      },
+      {
+        "x": 0.48,
+        "y": 0.727273,
+        "curve": false
+      }
+    ],
+    "closed": true,
+    "roundCornersRadius": 23,
+    "flipH": false,
+    "flipV": false,
+    "rotation": 0,
+    "width": 0.4166666666666667,
+    "height": 0.2750000000000001,
+    "panelW": 600,
+    "panelH": 400
+  },
+  "style": {
+    "flatColour": "#1919d2",
+    "flatAlpha": 1,
+    "useGradient": false,
+    "gradStops": 2,
+    "gradDir": "vertical",
+    "gradColour1": "#4a4a50",
+    "gradAlpha1": 1,
+    "gradColour2": "#1e1e24",
+    "gradAlpha2": 1,
+    "gradColour3": "#2a2a30",
+    "gradAlpha3": 1,
+    "gradPos3": 0.5,
+    "outlineOn": false,
+    "outlineColour": "#555560",
+    "outlineAlpha": 1,
+    "outlineWidth": 1,
+    "outlineGrad": false,
+    "outlineGradDir": "vertical",
+    "outlineColour2": "#333338",
+    "outlineAlpha2": 1,
+    "noiseOn": false,
+    "noiseAlpha": 0.15,
+    "hl1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.25,
+      "x": 0.5,
+      "y": 0.2,
+      "w": 0.8,
+      "h": 0.35,
+      "blur": 25
+    },
+    "hl2": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.1,
+      "x": 0.5,
+      "y": 0.85,
+      "w": 0.6,
+      "h": 0.25,
+      "blur": 35
+    },
+    "pathShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.45,
+      "offsetX": 4,
+      "offsetY": 4,
+      "radius": 12,
+      "scale": 1,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.22,
+      "offsetX": 0,
+      "offsetY": -3,
+      "radius": 18,
+      "scale": 1.02,
+      "width": 1,
+      "height": 1
+    },
+    "pathGlow2": {
+      "on": false,
+      "colour": "#d99a2b",
+      "alpha": 0.18,
+      "offsetX": 0,
+      "offsetY": 4,
+      "radius": 24,
+      "scale": 1.08,
+      "width": 1,
+      "height": 1
+    }
+  }
+}
