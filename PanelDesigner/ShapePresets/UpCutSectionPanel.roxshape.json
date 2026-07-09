@@ -1,0 +1,211 @@
+{
+  "format": "RoxPanelDesigner.ShapePreset",
+  "version": 1,
+  "savedAt": "2026-07-09T10:14:39.642Z",
+  "name": "UpCutSectionPanel",
+  "sourceType": "custom",
+  "panel": {
+    "width": 600,
+    "height": 400
+  },
+  "layerSettings": {
+    "type": "custom",
+    "name": "UpCutSectionPanel",
+    "visible": true,
+    "x": 0.03333333333333333,
+    "y": 0.375,
+    "w": 0.9333333333333333,
+    "h": 0.5750000000000001,
+    "points": [
+      {
+        "x": 0,
+        "y": 0,
+        "curve": false
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 0.4999999999999999,
+        "y": 0.5217391304347826,
+        "curve": false
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "curve": false
+      },
+      {
+        "x": 0.4999999999999999,
+        "y": 0,
+        "curve": false
+      }
+    ],
+    "closed": true,
+    "roundCornersRadius": 20,
+    "flipH": false,
+    "flipV": false,
+    "rotation": 0,
+    "flatColour": "#ababab",
+    "flatAlpha": 1,
+    "useGradient": false,
+    "gradStops": 2,
+    "gradDir": "vertical",
+    "gradColour1": "#4a4a50",
+    "gradAlpha1": 1,
+    "gradColour2": "#1e1e24",
+    "gradAlpha2": 1,
+    "gradColour3": "#2a2a30",
+    "gradAlpha3": 1,
+    "gradPos3": 0.5,
+    "outlineOn": true,
+    "outlineColour": "#e8e8e8",
+    "outlineAlpha": 1,
+    "outlineWidth": 3.99,
+    "outlineGrad": true,
+    "outlineGradDir": "vertical",
+    "outlineColour2": "#141414",
+    "outlineAlpha2": 1,
+    "innerShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.32,
+      "radius": 4,
+      "offsetX": 1,
+      "offsetY": 1,
+      "colourMode": "custom",
+      "colourToken": "shadow"
+    },
+    "noiseOn": false,
+    "noiseAlpha": 0.15,
+    "hl1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.25,
+      "x": 0.5,
+      "y": 0.2,
+      "w": 0.8,
+      "h": 0.35,
+      "blur": 25,
+      "colourMode": "custom",
+      "colourToken": "highlight"
+    },
+    "hl2": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.1,
+      "x": 0.5,
+      "y": 0.85,
+      "w": 0.6,
+      "h": 0.25,
+      "blur": 35,
+      "colourMode": "custom",
+      "colourToken": "highlight"
+    },
+    "pathShadow": {
+      "on": false,
+      "colour": "#000000",
+      "alpha": 0.45,
+      "offsetX": 4,
+      "offsetY": 4,
+      "radius": 12,
+      "scale": 1,
+      "width": 1,
+      "height": 1,
+      "colourMode": "custom",
+      "colourToken": "shadow"
+    },
+    "pathGlow1": {
+      "on": false,
+      "colour": "#ffffff",
+      "alpha": 0.22,
+      "offsetX": 0,
+      "offsetY": -3,
+      "radius": 18,
+      "scale": 1.02,
+      "width": 1,
+      "height": 1,
+      "colourMode": "custom",
+      "colourToken": "glow1"
+    },
+    "pathGlow2": {
+      "on": false,
+      "colour": "#d99a2b",
+      "alpha": 0.18,
+      "offsetX": 0,
+      "offsetY": 4,
+      "radius": 24,
+      "scale": 1.08,
+      "width": 1,
+      "height": 1,
+      "colourMode": "custom",
+      "colourToken": "glow2"
+    },
+    "mirrorPoints": null,
+    "useThemeColours": false,
+    "flatColourMode": "custom",
+    "flatColourToken": "surface",
+    "colourMode": "custom",
+    "colourToken": "accent",
+    "gradColour1Mode": "custom",
+    "gradColour1Token": "surface",
+    "gradColour2Mode": "custom",
+    "gradColour2Token": "surface2",
+    "gradColour3Mode": "custom",
+    "gradColour3Token": "surface2",
+    "outlineColourMode": "custom",
+    "outlineColourToken": "outline",
+    "outlineColour2Mode": "custom",
+    "outlineColour2Token": "surfaceDark"
+  },
+  "geometry": {
+    "points": [
+      {
+        "x": 0,
+        "y": 0,
+        "curve": false
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 0.5,
+        "y": 0.521739,
+        "curve": false
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "curve": false
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "curve": false
+      },
+      {
+        "x": 0.5,
+        "y": 0,
+        "curve": false
+      }
+    ],
+    "closed": true,
+    "roundCornersRadius": 20,
+    "flipH": false,
+    "flipV": false,
+    "rotation": 0,
+    "width": 0.9333333333333333,
+    "height": 0.5750000000000001,
+    "panelW": 600,
+    "panelH": 400
+  }
+}
